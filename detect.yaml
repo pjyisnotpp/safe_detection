@@ -1,0 +1,10 @@
+train: E:\方向实践第三次作业\task3\data\train.txt
+val: E:\方向实践第三次作业\task3\data\val.txt
+nc: 6
+names:
+  0: badge
+  1: person
+  2: glove
+  3: wrongglove
+  4: operatingbar
+  5: powerchecker
